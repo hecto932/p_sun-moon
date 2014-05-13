@@ -1,0 +1,82 @@
+@media only screen and (min-width: 600px) and (max-width: 959px) 
+{
+	#g1-button-24
+	{
+		background-color:#000000;
+	}
+	
+	.g1-grid > .g1-column {
+    	width: 100% !important;
+    	margin: 0px !important;
+    	float: none !important;
+    	left: auto !important;
+        
+	}
+}
+
+@media only screen and (min-width: 495px) and (max-width: 947px) 
+{
+	#g1-button-24
+	{
+		background-color:#000000;
+	}
+	input
+	{
+		width: 190px;
+	}
+	.g1-grid > .g1-column {
+    	width: 47% !important;
+    	margin: 0px !important;
+    	float: none !important;
+    	left: auto !important;
+        border: 1px solid red;
+        width: 200px;
+	}
+}
+
+.g1-grid > .g1-column:first-child {
+        margin-left: 0px;
+    	width: 211px;
+}
+
+
+h1, h5
+{
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-bottom: 14px;
+    margin-top: 14px;
+    text-rendering: optimizelegibility;
+}
+
+ul.breadcrumbs li a, ul.breadcrumbs li span
+{
+    font-size: 11px !important;
+    padding-left: 12px !important;
+    text-transform: uppercase !important;
+}
+
+.habitacion_estado
+{
+    background: none repeat scroll 0% 0% white;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 8px 8px 0px 0px;
+    display: block;
+    height: 340px;
+    margin-bottom: 40px;
+    transition: width 2s;
+}
+
+
+
+
+
+
+
+
+
+
+
+

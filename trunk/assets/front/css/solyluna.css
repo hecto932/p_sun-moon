@@ -1,0 +1,702 @@
+#parrafos > p
+{
+	text-align: justify;
+	font-size:14px;
+}
+
+#g1-precontent > .g1-background {
+    background-color: rgb(57, 169, 224)
+}
+
+#g1-precontent input {
+	border-color: #fff;
+}
+
+#g1-prefooter .g1-gmap-wrapper .g1-zoom-control
+{
+	background-color: rgb(57, 169, 224);
+}
+
+#g1-prefooter .g1-gmap-wrapper .g1-pan-control
+{
+	background-color: rgb(57, 169, 224);
+}
+
+#g1-preheader > .g1-background {
+    border-top-width: 3px;
+    border-top-color: rgb(57, 169, 224);
+}
+
+#g1-header a, .g1-nav--unstyled.g1-nav--collapsed #g1-primary-nav-menu > .current_page_ancestor > a, .g1-nav--unstyled.g1-nav--collapsed #g1-primary-nav-menu > .current_page_parent > a, .g1-nav--unstyled.g1-nav--collapsed #g1-primary-nav-menu > .current_page_item > a {
+    color: rgb(57, 169, 224);
+}
+
+#g1-prefooter .g1-button--solid
+{
+	background-color: rgb(57, 169, 224);
+}
+
+#g1-prefooter .g1-button--solid
+{
+	border-color: rgb(57, 169, 224);
+}
+
+#g1-prefooter .g1-button--solid:hover
+{
+	background-color:#000000;
+	border-color: rgb(57, 169, 224);
+}
+
+
+#g1-prefooter .g1-gmap-wrapper .g1-full-map-control
+{
+	background-color: rgb(57, 169, 224);
+}
+.g1-button .g1-button--solid .g1-button--small a:hover
+{
+	background-color: #000000;
+}
+
+#g1-primary-nav {
+    margin-top: 45px;
+}
+
+#g1-content a {
+    color: rgb(57, 169, 224);
+}
+
+#g1-content .g1-button--solid
+{
+	border-color: rgb(57, 169, 224);
+	background-color: rgb(57, 169, 224);
+}
+
+#g1-precontent select
+{
+	border-color: rgb(57, 169, 224);
+}
+
+#g1-content a.button
+{
+	border-color: rgb(57, 169, 224);
+	background-color: rgb(57, 169, 224);
+}
+
+#g1-content a.button:hover
+{
+	border-color: #000000;
+	background-color: #000000;
+}
+
+#g1-content li
+{
+	/*border-color: rgb(230, 230, 230);*/
+    /*margin-left: 15px;*/
+}
+
+
+#g1-content .g1-list--simple .g1-list__icon, #g1-content .g1-duplicator--solid .g1-duplicate--active i, #g1-content .g1-numbers__icon 
+{
+    color: rgb(57, 169, 224);
+}
+
+#g1-preheader .g1-button--simple, #g1-preheader .g1-toggle--simple .g1-toggle__switch, #g1-preheader .g1-tabs--button .g1-tabs-nav-item .g1-tab-title, #g1-preheader .g1-pagination .prev, #g1-preheader .g1-pagination .next, #g1-preheader .g1-simple-slider .g1-fullscreen > a, #g1-preheader .g1-nav-item__switch {
+    background-color: rgb(57, 169, 224);
+    border-color: rgb(230, 230, 230);
+    color:#FFFFFF;
+}
+
+#g1-preheader__switch {
+    width: 140px;
+    height: 32px;
+    display: block;
+    float: right;
+    overflow: hidden;
+    position: relative;
+    font-size: 17px;
+}
+
+#g1-content div div > input
+{
+	height: 35px;
+}
+
+#g1-content button.button
+{
+	background-color: rgb(57, 169, 224);
+    border-color: rgb(230, 230, 230);
+    color:#FFFFFF;
+}
+
+#g1-preheader #g1-primary-nav-switch
+	background-color: rgb(57, 169, 224);
+}
+
+.g1-grid > .g1-column {
+    min-height: 0px;
+    margin-left: 1.893%;
+    float: left;
+}
+
+.g1-one-fourth {
+    width: 21.831%;
+}
+
+.login {
+    padding: 20px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px 4px 4px 4px;
+    margin-bottom: 40px;
+    background: none repeat scroll 0% 0% white;
+}
+
+#g1-content button.button:hover {
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(230, 230, 230);
+    color: rgb(255, 255, 255);
+}
+
+#g1-precontent button.button
+{
+	background-color:#007CCF;
+	border-color: #007CCF;
+	color: rgb(255, 255, 255);
+}
+
+.footer
+{
+	font-family: 'Raleway',sans-serif;
+    background: none repeat scroll 0% 0% rgb(18, 18, 20);
+    border-top: 4px solid rgb(31, 31, 31);
+    font-size: 0.9em;
+    padding: 14px 0px 0px;
+    position: relative;
+}
+
+
+#g1-prefooter a {
+   color:#FFFFFF;
+}
+
+#g1-prefooter b
+{
+	color:#FFFFFF;
+}
+
+#g1-prefooter a:hover {
+    /*color: rgb(251, 68, 0);*/
+   color:rgb(57, 169, 224);
+}
+
+.g1-footer
+{
+	font-family: 'Raleway',sans-serif;
+	background: none repeat scroll 0% 0% rgb(12, 12, 12);
+	border-top: 4px solid rgb(17, 17, 17);
+	padding: 30px 0px 10px;
+	color: rgb(255, 255, 255);
+}
+
+.derechos
+{
+	font-size:12px;
+	color:#FFFFFF;
+	
+}
+
+.derechos a
+{
+	font-size:12px;
+	color:#FFFFFF;
+	
+}
+
+#g1-preheader a {
+    color: rgb(251, 68, 0);
+    padding: 4px;
+}
+
+button
+{
+	color:#FFFFFF;
+}
+
+#tabla_datos input[type="text"],select,input[type="password"]
+{
+    background-color: white;
+    font-family: inherit;
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset;
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-size: 12px;
+    margin: 0px 0px 1em;
+    padding: 0.5em;
+    height: 3.313em;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
+}
+
+#tabla_reserva input[type="text"],select
+{
+    background-color: white;
+    font-family: inherit;
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset;
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-size: 12px;
+    margin: 0px 0px 1em;
+    padding: 0.5em;
+    height: 3.313em;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
+}
+
+
+#tabla_tarjeta input[type="text"],select
+{
+    background-color: white;
+    font-family: inherit;
+    border: 1px solid rgb(204, 204, 204);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset;
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-size: 12px;
+    margin: 0px 0px 1em;
+    padding: 0.5em;
+    height: 3.313em;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
+}
+
+#tabla_reserva p,b
+{
+	font-size:12px;
+}
+
+#tabla_reserva table p
+{
+	font-size:12px;
+}
+
+.g1-box--icon {
+    padding-top: 0px;
+}
+
+.sinsombra
+{ 
+	background-color: #F2F2F2;
+	
+}
+
+.g1-table--solid tfoot td:first-child, .g1-table--solid tfoot th:first-child, .g1-table--solid tbody td:first-child, .g1-table--solid tbody th:first-child {
+    border-width: 0 0px 0px;
+    border-style:none;
+}
+
+g1-table--solid tfoot td, .g1-table--solid tfoot th, .g1-table--solid tbody td, .g1-table--solid tbody th {
+    border-width: 0 0px 0px 0;
+}
+
+textarea.noResize { resize:none; }
+
+/* CSS COPIADO DE BOOKING.COM */
+
+.select_tdc
+{
+	width: 80px;
+}
+
+/* /CSS COPIADO DE BOOKING.COM*/
+
+.listado_eventos {
+	font-family: "Open Sans";
+	color:#000000;
+	font-size:12px;
+    padding: 20px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    margin-bottom: 40px;
+    background: none repeat scroll 0% 0% white;
+}
+
+.alert-box {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    font-weight: normal;
+    margin-bottom: 1.11111rem;
+    position: relative;
+    padding: 0.77778rem 1.33333rem 0.77778rem 0.77778rem;
+    font-size: 0.72222rem;
+    background-color: rgb(0, 140, 186);
+    border-color: rgb(0, 123, 161);
+    color: white;
+}
+
+
+.listado_eventos:hover
+{
+	border-color: rgb(57, 169, 224);
+	color:#FFFFFF;
+	transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
+}
+
+.g1-font-regular-s .g1-meta {
+    font-size: 14px;
+}
+
+.g1-table th, .g1-table td {
+    padding: 8px 12px;
+}
+
+.alert-box.alert {
+    background-color: rgb(198, 15, 19);
+    border-color: rgb(151, 11, 14);
+    color: white;
+}
+.alert-box.round {
+    border-radius: 1000px;
+}
+
+
+#g1-content a.bnt-green
+{
+	background-color: rgb(93, 164, 35);
+    border-color: rgb(69, 122, 26);
+}
+
+#g1-content a.btn-green:hover
+{
+	border-color: #000000;
+	background-color: #000000;
+}
+
+#g1-button-24.g1-button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(46, 204, 113);
+    border-color: rgb(46, 204, 113);
+}
+
+#g1-button-24.g1-button:hover {
+    color: rgb(255, 255, 255);
+   	background-color: #000000;
+    border-color: #000000;;
+}
+
+#g1-button-23.g1-button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(52, 152, 219);
+    border-color: rgb(52, 152, 219);
+}
+
+#g1-button-23.g1-button:hover {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border-color: #000000;;
+}
+
+#g1-button-21.g1-button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(191, 18, 34);
+    border-color: rgb(191, 18, 34);
+}
+
+#g1-button-21.g1-button:hover {
+    color: rgb(255, 255, 255);
+   	background-color: #000000;
+    border-color: #000000;;
+}
+
+.alert-box.success {
+    background-color: rgb(67, 172, 106);
+    border-color: rgb(60, 154, 94);
+    color: white;
+}
+
+#g1-content a.button {
+    background-color: rgb(57, 169, 224);
+    border-color: rgb(230, 230, 230);
+    color: rgb(255, 255, 255);
+}
+
+#g1-content button.button 
+{
+	background-color: rgb(57, 169, 224);
+    border-color: rgb(230, 230, 230);
+    color: rgb(255, 255, 255);
+}
+
+#g1-button-20.g1-button {
+    color: rgb(255, 255, 255);
+   	background-color: rgb(251, 68, 0);
+    border-color:rgb(251, 68, 0);
+}
+
+#g1-button-20.g1-button:hover {
+    color: rgb(255, 255, 255);
+   	background-color: #000000;
+    border-color: #000000;;
+}
+
+#cargador {
+    background: url("../images/spinner.gif") no-repeat scroll center center rgb(255, 255, 255);
+    height: 60px;
+    left: 50%;
+    margin: -50px 0px 0px -50px;
+    position: absolute;
+    top: 80%;
+    width: 60px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 100px;
+    z-index: 999;
+    display:none;
+}
+
+#g1-primary-nav
+{
+    margin: 42px 0px 0px 0px;
+}
+
+a .condiciones 
+{
+    text-decoration: none;
+}
+
+#border_responsive
+{
+    border: 1px solid #434343;
+    margin: 2em 0 2em 0;
+}
+
+.habitacion_responsive
+{
+    background: #fff;
+    border: 1px solid #c2c2c2;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 1em 0em; 
+    padding: 1em 0em;
+}
+
+.habitacion_responsive h5
+{
+    text-transform: uppercase;
+}
+
+.habitacion_responsive select
+{
+    width: 40%;
+}
+
+.habitacion_responsive_cabecera
+{
+    border-radius: 5px 5px 0px 0px;
+    display:block;
+    margin: -18px -1px 1em -1px;
+}
+
+/* DATOS RESERVA CSS */
+
+#estadia
+{
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 1em 0em;
+    padding: 1em 1em;
+}
+
+
+#pool_habitaciones_responsive
+{
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0em 0em 0em 0em;
+    padding: 1em 0em;
+}
+
+/* /DATOS RESERVA CSS */
+
+#iniciar_sesion_responsive
+{
+    background: #fff;
+    border: 1px solid #c2c2c2;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0em 0em 1em 0em; 
+    padding: 1em 0em;
+}
+#resumen_reserva
+{
+    background-color: #fff;
+    border: 1px solid #c2c2c2;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    display: none;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0em 0em 2em 0em; 
+    padding: 1em 0em;
+}
+
+#resumen_reserva_lateral
+{
+    background-color: #fff;
+    border: 1px solid #c2c2c2;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0em 0em; 
+    padding: 1em 0em;
+}
+#direccion_reserva_responsive
+{
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: -1px 5px 14px 1px #CCC;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin: 0em 0em 1em 0em;
+    padding: 1em 0em;
+}
+
+@media screen and (max-width: 768px){
+
+    body
+    {
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .habitacion_responsive
+    {
+        /*background-color: #f9f8f3;*/
+        background-color: #FFFFFF;
+        border:3px solid #434343;
+        border-radius: 6px;
+        box-shadow: -1px 5px 14px 1px #CCC;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        margin: 1em 0em; 
+        padding: 1em 0em;
+    }
+    #resumen_reserva
+    {
+        background-color: #fff;
+        border: 1px solid #c2c2c2;
+        border-radius: 6px;
+        box-shadow: -1px 5px 14px 1px #CCC;
+        display: block;
+        font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        margin: 0em 0em 2em 0em;
+        padding: 1em 0em;
+    }
+
+    .habitacion_responsive select
+    {
+        width: 100%;
+    }
+
+    .habitacion_responsive_cabecera
+    {
+        border-radius: 5px 5px 0px 0px;
+        display:block;
+        margin: -18px -2px 1em -2px;
+    }
+
+    #tabla_datos
+    {
+        display: none;
+    }
+
+    .habitacion_responsive figure 
+    {
+        border-radius: 6px;
+    }
+
+    .habitacion_responsive figure h5
+    {
+        text-align: center;
+    }
+    
+    .datos_condiciones strong, .datos_descripcion strong, strong
+    {
+        color:#000000;
+    }
+
+    #tabla_disponibilidad
+    {
+        display: none;
+    }
+
+    #tabla_reserva
+    {
+        display: none;
+    }
+
+    #estadia #estadia-datos
+    {
+        text-align: left;
+    }
+
+    #estadia figure img, #pool_habitaciones_responsive figure img
+    {
+        border-radius: 6px;
+    }
+
+    #estadia h3
+    {
+        text-align: center;
+    }
+
+    #g1-button-24, #g1-button-21
+    {
+        width: 260px;
+    }
+
+    #g1-button-23
+    {
+        text-align: center;
+    }
+    
+    #secondary
+    {
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

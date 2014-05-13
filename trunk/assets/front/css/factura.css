@@ -1,0 +1,147 @@
+.g1-table--solid
+{
+	font-family: "Open Sans";
+    background-color: rgb(242, 242, 242);
+    border-color: rgb(230, 230, 230);
+    border-radius: 5px;
+    padding: 1px;
+}
+
+.g1-table {
+    margin-bottom: 1.5em;
+    overflow-x: auto;
+}
+
+#g1-content table
+{
+	border-color: rgb(230, 230, 230);
+}
+
+
+.g1-table table {
+    width: 100%;
+    margin: 0px;
+    position: relative;
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+table
+{
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: solid;
+    outline: 0px none;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: none repeat scroll 0% 0% transparent;
+}
+
+#g1-content
+{
+	text-align:center;
+	color: rgb(102, 102, 102);
+}
+
+table thead, table tfoot {
+    background: none repeat scroll 0% 0% whitesmoke;
+    font-weight: bold;
+}
+
+thead
+{
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: solid;
+    outline: 0px none;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: none repeat scroll 0% 0% transparent;
+}
+
+.g1-table table {
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+tr
+{
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: solid;
+    outline: 0px none;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: none repeat scroll 0% 0% transparent;
+}
+
+#g1-content th
+{
+	border-color: rgb(230, 230, 230);
+}
+
+.g1-table--solid thead tr:first-of-type th:first-child
+{
+	border-top-left-radius: 5px;
+}
+
+.g1-table--solid tr:last-of-type th:first-child
+{
+	border-bottom-left-radius: 5px;
+}
+
+.g1-table--solid thead th:first-child {
+    border-width: 1px;
+}
+
+.g1-table thead th {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+    text-align: left;
+}
+
+.g1-table th {
+    padding: 8px 16px;
+}
+
+table thead tr th
+{ 	display: table-cell;
+    line-height: 1.125em;
+    font-size: 0.875em;
+	color: rgb(34, 34, 34);
+}
+
+tbody
+{
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: solid;
+    outline: 0px none;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: none repeat scroll 0% 0% transparent;
+}
+
+td {
+    font-weight: normal;
+    vertical-align: top;
+}
+
+tr td {
+    font-size: 0.875em;
+    color: rgb(34, 34, 34);
+}
+
+.g1-table--solid tbody td
+{
+	text-align:center;
+	background:#ffffff;
+}
+
+.g1-table--solid thead th:first-child {
+    border-width: 1px;
+}

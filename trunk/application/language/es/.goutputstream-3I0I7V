@@ -1,0 +1,508 @@
+<?php defined('BASEPATH') OR exit('No se permite el acceso directo.');
+
+$lang['nombre_principal']			= "LO QUE BUSCAS";
+$lang['nombre_principal_desc']		= " - Loquebuscas";
+$lang['url_principal']				= "";
+
+$lang['email_loquebuscas']			= "kagr.nsce@gmail.com";
+$lang['email_loquebuscas22']		= "kagr.nsce@gmail.com";
+
+$lang['menu.inicio']				= "inicio";
+$lang['menu.proy_carabobo']			= "proyectos aragua";
+$lang['menu.proy_aragua']			= "proyectos carabobo";
+$lang['menu.noticias']				= "noticias";
+$lang['menu.contacto']				= "contacto";
+$lang['menu.quienes_url']			= "nosotros";
+$lang['menu.creditos']				= '© Copyright 2009 - '.date("Y").' Todos los derechos reservados GRUPO ALCO ® Grupo Alco es una marca registrada. RIF: J-7548192-5 "Todas las fotograf&iacute;as e im&aacute;genes utilizadas en nuestro sitio Web y material promocional son de car&aacute;cter ilustrativo. Todos los diseños, dimensiones, materiales, acabados y componentes están sujetos a cambios sin previo aviso. Los cambios y sustituciones son prerrogativas absolutas del desarrollador. Nos reservamos el derecho de venta."';
+$lang['menu.desarrollo']			= 'Desarrollado por <a href="http://www.hipervinculo.net">Hipervinculo</a>';
+
+
+$lang['inicio.meta.title']			=	 "Loquebuscas";
+$lang['inicio.meta.description']	= "Loquebuscas - descripcion";
+/*$lang['inicio.meta.headline']		= "EL MEJOR SERVICIO TOYOTA";
+$lang['inicio.meta.headline.2']		= "SOLO EN Loquebuscas";*/
+$lang['inicio.meta.keywords']		= "keywords, inicio";
+$lang['nosotros.meta.title']		= "Quiénes somos";
+$lang['nosotros.meta.description']	= "descripcion quienes somos";
+$lang['nosotros.meta.keywords']		= "keywords, quienes somos";
+
+/********************************** MENUS **********************************/
+
+$lang['nosotros']			= "Nosotros";
+$lang['nosotros_url']		= "nosotros";
+$lang['servicios']			= "Servicios";
+$lang['servicios_url']		= "servicios_toyota";
+$lang['servicios_url2']		= "servicios_toyota/detalle/cambio-aceite";
+$lang['servicios_url3']		= "servicios_toyota/detalle/alineacion-balanceo";
+$lang['vehiculos']			= "Vehículos";
+$lang['vehiculos_url']		= "vehiculos";
+$lang['repuestos']			= "Repuestos";
+$lang['repuestos_url']		= "repuestos";
+$lang['contacto']			= "Contacto";
+$lang['contacto_url']		= "contacto";
+$lang['pintura']			= "L / Pintura";
+$lang['pintura_url']		= "pintura";
+$lang['noticias']			= "Noticias";
+$lang['noticias_url']		= "noticias/listado";
+$lang['noticias.listado']	= "listado";
+$lang['planes']				= "Planes";
+$lang['tdv']				= "T.D.V.";
+$lang['galeria']			= "Galería de Fotos";
+$lang['citas']				= "Solicitud de Citas";
+$lang['modelo']				= "Modelos";
+
+$lang['subscribase']		= "Subscríbase a nuestro";
+$lang['biografia']			= "Biografía";
+$lang['prensa']				= "Prensa";
+$lang['videos']				= "Vídeos";
+$lang['eventos']			= "Eventos";
+$lang['links']				= "Links";
+
+$lang['derechos']			= "2011 Todos los derechos reservados. Loquebuscas C.A. RIF: J-29381473-1";
+$lang['credito']			="Crédito";
+
+
+/********************************** SET_MESSAGE ********************************/
+
+$lang['required']		= "El campo %s lo has dejado en blanco y es requerido.";
+$lang['min_length'] 	= "El campo %s debe tener un mínimo de %s caracteres.";
+$lang['valid_email']	= "Debe introducir un correo electrónico válido.";
+$lang['is_numeric']		= "El %s debe ser unicamente numérico";
+
+/********************************** URLs ***************************************/
+
+$lang['empresa_url'] 					="empresa";
+$lang['empresa.nosotros_url']			="nosotros";
+$lang['empresa.mision.vision_url']		="mision-vision-y-valores";
+$lang['empresa.principios_url'] 		="principios";
+
+
+/********************************** REDES SOCIALES **********************************/
+
+$lang['siguenos']		= "Síguenos";
+$lang['compartir']		= "Compartir";
+
+$lang['twitter']		= "Twitter de Loquebuscas";
+$lang['twitter_usr']	= "@loquebuscas";
+$lang['twitter_url']	= "http://www.twitter.com/loquebuscas";
+
+$lang['facebook']		= "Facebook de Loquebuscas";
+$lang['facebook_url']	= "http://www.facebook.com/";
+
+$lang['inicio']			= "Inicio";
+$lang['inicio_url']		= "/";
+
+$lang['productos']		= "Productos";
+$lang['productos_url']			= "productos";
+
+$lang['proyectos']			= "Proyectos";
+$lang['proyectos_url']			= "proyectos";
+$lang['proyectos_ver']			= "ver proyectos";
+$lang['proyectos_main']			= "proyectos-principal";
+
+$lang['historia']			= "Historia";
+$lang['historia_url']			= "historia";
+
+$lang['promociones']			= "Promociones";
+$lang['promociones_url']			= "promociones";
+
+
+$lang['buscador']			= "Buscador";
+$lang['busqueda']			= "Busqueda";
+$lang['busqueda_url']			= "busqueda";
+
+
+$lang['recuperar_password']			= "Recuperar Contraseña";
+$lang['recuperar_password_url']			= "recuperar";
+$lang['recuperar_no_existe']			= "El Correo electrónico no existe.";
+
+$lang['recuperar.email.peticion.OK']		= "Recuperación de  contraseña";
+$lang['recuperar.email.contacto']		= '¡Has olvidado tu contraseña!';
+$lang['recuperar.email.consulta']		= 'Por seguridad, hemos procedido a generar una nueva y que podrás modificar en la opción de "modificación de datos" una vez te hayas autenticado.';
+$lang['recuperar.email.tema']		= "Tu nueva contraseña es:";
+
+$lang['recuperar_OK']		= "Tu solicitud de recuperación de contraseña se ha realizado correctamente. Recibirás en el correo proporcionado las instrucciones necesarias para llevar a cabo el proceso.";
+$lang['recuperar_KO']		= "Hubo un problema con tu solicitud";
+
+$lang['iniciar_sesion']		= "Iniciar Sesión";
+$lang['introduce_datos']	= "Introduce tus datos de usuario para hacer login y participar en Isabel.net";
+$lang['login_usuario']		= "E-mail";
+$lang['login_password']		= "Contraseña";
+$lang['login_entrar']		= "Entrar";
+$lang['login_olvidado']		= "¿Has olvidado tu contraseña?";
+
+$lang['votar_login']		= "Inicia sesión para votar";
+$lang['votar']				= "Votar";
+$lang['votos']				= "votos";
+$lang['votos_sobre']		= "votos sobre 5";
+$lang['votar_1']			= "1 Voto";
+$lang['votar_2']			= "2 Votos";
+$lang['votar_3']			= "3 Votos";
+$lang['votar_4']			= "4 Votos";
+$lang['votar_5']			= "5 Votos";
+
+$lang['sala_prensa']			= "Sala de Prensa";
+$lang['sala_prensa_url']		= "sala-prensa";
+$lang['login']					= "Iniciar sesión";
+$lang['login_url']				= "login";
+$lang['login_url_check']		= "check_login";
+$lang['login_error']			= "Los datos introducidos no son válidos";
+$lang['registro']				= "Registro";
+$lang['registro_url']			= "registro";
+$lang['activar_url']			= "activar";
+$lang['registro_crear_url']		= "crear";
+$lang['registro_error']			= "Los datos de registro introducidos no son válidos";
+$lang['faq_abbr']				= "FAQ's";
+$lang['faq']					= "Preguntas más frecuentes";
+$lang['faq_url']				= "faqs";
+$lang['newsletter']				= "Newsletter";
+$lang['newsletter_url']			= "newsletters";
+$lang['newsletter_OK']			= "Tu solicitud de suscripción se ha realizado correctamente";
+$lang['newsletter_KO']			= "Hubo un problema con tu registro del newsletter.";
+$lang['newsletter_registro']	= "Registro Newsletter";
+$lang['newsletter_ya_registro']	= "El correo ya esta registrado";
+
+$lang['sin_titulo']				= "Sin Título";
+$lang['sin_formato']			= "Sin Formato";
+$lang['sin_descripcion']		= "Sin Descripción";
+$lang['ver_detalles']			= "Ver Detalles";
+$lang['ver_ultimo_spot']		= "Ver último spot";
+$lang['ver_spot']				= "Ver spot";
+$lang['ultimo_spot']			= "último spot";
+$lang['no_te_pierdas_spot']		= "No te pierdas nuestro";
+$lang['visitar_web']			= "Visitar Web";
+$lang['descargar_imagenes']		= "Descargar imagen";
+$lang['descargar_pdf']			= "Descargar PDF";
+
+$lang['empresa.historia']						= "La Historia";
+$lang['empresa.historia_url']					= "historia";
+$lang['empresa.presencia_intl']					= "Presencia internacional";
+$lang['empresa.presencia_intl_url']				= "presencia_internacional";
+$lang['empresa.investigacion_desarrollo']		= "Investigación y desarrollo";
+$lang['empresa.investigacion_desarrollo_url']	= "investigacion_y_desarrollo";
+$lang['empresa.garantia_calidad']				= "Garantía de Calidad";
+$lang['empresa.garantia_calidad_url']			= "garantia_de_calidad";
+$lang['empresa.instalaciones']					= "Instalaciones";
+$lang['empresa.instalaciones_url']				= "instalaciones";
+$lang['empresa.flota']							= "La Flota";
+$lang['empresa.flota_url']						= "flota";
+$lang['empresa.proceso_produccion']				= "Proceso de producción";
+$lang['empresa.proceso_produccion_url']			= "proceso_produccion";
+$lang['empresa.isabel_publicidad']				= "Isabel y la publicidad";
+$lang['empresa.isabel_publicidad_url']			= "isabel_publicidad";
+
+
+$lang['empresa.historia.p1']			= "<strong>Conservas Garavilla</strong> es la historia de un éxito, el fruto de un esfuerzo colectivo de los cientos de mujeres y hombres que a lo largo de más de un siglo han hecho una firme apuesta por el trabajo bien hecho, el compromiso con la calidad, el respeto de la mejor tradición y el orgullo de pertenencia a un líder mundial en el complicado sector de las conservas de pescado.";
+$lang['empresa.historia.p2']			= "Conservas Garavilla, es el resultado de la visión y el tesón de una familia estrechamente vinculada al mar, una historia de superación de la adversidad, de confianza en el futuro y de liderazgo empresarial.";
+$lang['empresa.historia.ver_eventos']   = "Ver eventos en el año";
+
+
+$lang['empresa.historia.meta.title'] = "Historia";
+
+$lang['empresa.historia.1985.titulo'] = "Comienza la fabricación";
+$lang['empresa.historia.1985.p1'] = "A mediados de la década de los 80, se funda MARE (Manufacturas Recreacionales) con la idea de fabricar productos y equipos para actividades al aire libre, comenzamos con los chalecos salvavidas y después de un tiempo viendo las similitudes de materiales tuvimos la idea de iniciarnos en la fabricación de las carpas de techo. Era algo muy novedoso para la época y causaba impacto cuando hacíamos un campamento con una carpa MARE. Fueron tiempos especiales, las carpas se fabricaban muy artesanalmente, con madera, los materiales eran difíciles de conseguir y los que habían no eran precisamente los de mejor calidad, pero aun así logramos fabricar una calidad tal, que todavía hay carpas hechas en aquellos tiempos rodando por ahí.";
+$lang['empresa.historia.1985.url'] = $lang['empresa.historia_url']."/1985";
+
+$lang['empresa.historia.1985.meta.title'] = "Comienza la fabricación - 1985";
+$lang['empresa.historia.1985.meta.description'] = "A mediados de la década de los 80, se funda MARE (Manufacturas Recreacionales) con la idea de fabricar productos y equipos para actividades al aire libre, comenzamos con los chalecos salvavidas y después de un tiempo viendo las similitudes de materiales tuvimos la idea de iniciarnos en la fabricación de las carpas de techo. Era algo muy novedoso para la época y causaba impacto cuando hacíamos un campamento con una carpa MARE. Fueron tiempos especiales, las carpas se fabricaban muy artesanalmente, con madera, los materiales eran difíciles de conseguir y los que habían no eran precisamente los de mejor calidad, pero aun así logramos fabricar una calidad tal, que todavía hay carpas hechas en aquellos tiempos rodando por ahí."; 
+$lang['empresa.historia.1985.meta.keywords'] = "incios, carpas mare, fabricación, decada 80, funda MARE, carpas de techo";
+
+$lang['empresa.historia.1992.titulo'] = "Expo con Bronco y Escort";
+$lang['empresa.historia.1992.p1'] = "Continuamos con empeño haciendo nuestras carpas y se presentó el lanzamiento de la FORD Bronco, hicimos una alianza estratégica con la empresa Ford Motors, diseñamos y fabricamos una carpa especialmente para una Bronco que viajó por todo el país en su gira promocional  mostrando sus virtudes y también una carpa MARE en su techo, la campaña fue un éxito para ambas compañías y demostró los estándares de calidad que desde esa época ya se venían manejando en nuestra empresa.";
+$lang['empresa.historia.1992.url'] = $lang['empresa.historia_url']."/1992";
+
+$lang['empresa.historia.1992.meta.title'] = "Expo con Bronco y Escort - 1992";
+$lang['empresa.historia.1992.meta.description'] = "Continuamos con empeño haciendo nuestras carpas y se presentó el lanzamiento de la FORD Bronco, hicimos una alianza estratégica con la empresa Ford Motors, diseñamos y fabricamos una carpa especialmente para una Bronco que viajó por todo el país en su gira promocional  mostrando sus virtudes y también una carpa MARE en su techo, la campaña fue un éxito para ambas compañías y demostró los estándares de calidad que desde esa época ya se venían manejando en nuestra empresa."; 
+$lang['empresa.historia.1992.meta.keywords'] = "expo bronco, expor escort, mare 1992, carpas mare, fabricación, decada 90, carpas de techo";
+
+$lang['empresa.historia.1999.titulo'] = "Atacama";
+$lang['empresa.historia.1999.p1'] = "Después de algunos años de inactividad con las carpas de techo por motivos de mercado, nos contactan de un club que estaba organizando una expedición al desierto de Atacama (Norte de Chile), algo nunca visto para esa época, muy pocos venezolanos se habían atrevido a salir en una expedición de este tipo fuera de nuestras fronteras y en las condiciones en que se presentó esta expedición en particular. Por cuestiones del destino, otra vez hicimos una alianza estratégica con Ford y fabricamos un pequeño lote sólo para los vehículos de la expedición Atacama 99. Con esta importante expedición se reactivó nuevamente la fabricación, ¡las carpas de techo MARE estaban en la calle otra vez!";
+$lang['empresa.historia.1999.url'] = $lang['empresa.historia_url']."/1999";
+
+$lang['empresa.historia.1999.meta.title'] = "Atacama - 1999";
+$lang['empresa.historia.1999.meta.description'] = "Después de algunos años de inactividad con las carpas de techo por motivos de mercado, nos contactan de un club que estaba organizando una expedición al desierto de Atacama (Norte de Chile), algo nunca visto para esa época, muy pocos venezolanos se habían atrevido a salir en una expedición de este tipo fuera de nuestras fronteras y en las condiciones en que se presentó esta expedición en particular. Por cuestiones del destino, otra vez hicimos una alianza estratégica con Ford y fabricamos un pequeño lote sólo para los vehículos de la expedición Atacama 99. Con esta importante expedición se reactivó nuevamente la fabricación, ¡las carpas de techo MARE estaban en la calle otra vez!"; 
+$lang['empresa.historia.1999.meta.keywords'] = "atacama, mare 1999, desierto chile, carpas mare, carpas de techo, decada 90";
+
+$lang['empresa.historia.2001.titulo'] = "Bajo Sur";
+$lang['empresa.historia.2001.p1'] = "Con la experiencia adquirida de algunas expediciones anteriores, dentro y fuera de nuestro país, nos dimos cuenta que el aluminio era una solución como material base para la fabricación de las carpas, trabajamos en adecuar el diseño al aluminio invertimos en la compra de maquinarias para fabricar las carpas con estructura de aluminio, por ser la más liviana y resistente.";
+$lang['empresa.historia.2001.p2'] = "Con ese diseño fuimos a la siguiente expedición, ésta nos llevó a Tierra del Fuego, el extremo Sur de nuestro continente, acampando en lugares con temperaturas desde -2 grados centígrados en la Patagonia Argentina hasta temperaturas de 35 grados en el Amazonas Brasileño, recorrimos cerca de 30.000 kilómetros en aproximadamente 60 días y las carpas cumplieron.";
+$lang['empresa.historia.2001.url'] = $lang['empresa.historia_url']."/2001";
+
+$lang['empresa.historia.2001.meta.title'] = "Bajo Sur - 2001";
+$lang['empresa.historia.2001.meta.description'] = "Con la experiencia adquirida de algunas expediciones anteriores, dentro y fuera de nuestro país, nos dimos cuenta que el aluminio era una solución como material base para la fabricación de las carpas, trabajamos en adecuar el diseño al aluminio invertimos en la compra de maquinarias para fabricar las carpas con estructura de aluminio, por ser la más liviana y resistente."; 
+$lang['empresa.historia.2001.meta.keywords'] = "bajo sur, mare 2001, expediciones, carpas mare, carpas de techo, decada 90";
+
+
+$lang['empresa.historia.2007.titulo'] = "Mudanza al nuevo galpón";
+$lang['empresa.historia.2007.p1'] = "En el año 2007 es la mudanza de la división de las carpas de techo MARE. El espacio en la sede principal se hizo pequeño y conseguimos un galpón adecuado para trabajar con la calidad que requiere el mercado, se adecuaron las áreas, hicimos inversiones cuantiosas en nuevas maquinarias, logramos importantes mejoras de las condiciones de trabajo de nuestro personal y en la atención al cliente.";
+$lang['empresa.historia.2007.url'] = $lang['empresa.historia_url']."/2007";
+
+$lang['empresa.historia.2007.meta.title'] = "Mudanza al nuevo galpón - 2007";
+$lang['empresa.historia.2007.meta.description'] = "En el año 2007 es la mudanza de la división de las carpas de techo MARE. El espacio en la sede principal se hizo pequeño y conseguimos un galpón adecuado para trabajar con la calidad que requiere el mercado, se adecuaron las áreas, hicimos inversiones cuantiosas en nuevas maquinarias, logramos importantes mejoras de las condiciones de trabajo de nuestro personal y en la atención al cliente."; 
+$lang['empresa.historia.2007.meta.keywords'] = "nuevo galpon, fabrica mare, distribuidora mare, mare 2007, expediciones, carpas mare, carpas de techo, decada 90";
+
+
+$lang['empresa.historia.2011.titulo'] = "Evolución";
+$lang['empresa.historia.2011.p1'] = "Tomando en cuenta los consejos, comentarios,  participaciones y demás de los clientes y las experiencias propias, vamos a la mesa de diseño para crear un nuevo producto que llene las expectativas de comodidad, sencillez, practicidad y sobre todo de calidad. Con todas esas premisas en mente, creamos nuestro modelo que llamamos Evolución, logramos en este diseño todos los adjetivos requeridos por nuestros clientes más exigentes tratando siempre de seguir haciendo un producto de alta calidad, sencillo y confiable haciendo énfasis en lo importante. Un producto con clase…";
+$lang['empresa.historia.2011.url'] = $lang['empresa.historia_url']."/2011";
+//$lang['empresa.historia.2011.p2'] = "Lanza las nuevas Ensaladas Bol Naturfresh, así como los nuevos Calentables Bol una gama que consta de 3 deliciosas recetas; Guiso de atún con patatas, Arroz Marinero y Pasta con atún y tomate listas para comer en un minuto al microondas y a su vez amplia la Gama Infantil con las nuevas y deliciosas Salchichas y Albóndigas de Atún.";
+
+$lang['empresa.historia.2011.meta.title'] = "Evolución - 2011";
+$lang['empresa.historia.2011.meta.description'] = "Tomando en cuenta los consejos, comentarios,  participaciones y demás de los clientes y las experiencias propias, vamos a la mesa de diseño para crear un nuevo producto que llene las expectativas de comodidad, sencillez, practicidad y sobre todo de calidad. Con todas esas premisas en mente, creamos nuestro modelo que llamamos Evolución, logramos en este diseño todos los adjetivos requeridos por nuestros clientes más exigentes tratando siempre de seguir haciendo un producto de alta calidad, sencillo y confiable haciendo énfasis en lo importante. Un producto con clase…"; 
+$lang['empresa.historia.2011.meta.keywords'] = "evolución, nueva carpa de techo mare, nueva carpa de techo, off road, 4x4, rusticos, mare 2011, expediciones, carpas mare, carpas de techo, decada 90";
+
+
+
+$lang['productos']			= "Productos";
+$lang['productos_url']			= "productos";
+$lang['productos_prueba']			= "Prueba nuestros productos";
+$lang['productos_disfruta']			= "Disfruta de nuestros productos";
+$lang['productos_isabel']			= "Productos Isabel";
+$lang['productos_utilizados']			= "Productos utilizados";
+$lang['productos.formatos']			= "Formatos";
+$lang['productos.descargar_ficha']			= "Descargar Ficha Logística de Producto";
+$lang['productos.info_nutri']			= "Información Nutricional";
+$lang['productos.valor_energetico']			= "Valor Energético";
+$lang['productos.proteinas']			= "Proteínas";
+$lang['productos.hidratos_carbono']			= "Hidratos de carbono";
+$lang['productos.azucares']			= "Azucares";
+$lang['productos.grasas_total']			= "Grasas totales";
+$lang['productos.saturadas']			= "Saturadas";
+$lang['productos.poliinsaturadas']			= "Poliinsaturadas";
+$lang['productos.omega3']			= "Omega 3";
+$lang['productos.fibra']			= "Fibra";
+$lang['productos.sodio']			= "Sodio";
+$lang['productos.los_cuales']			= "de los cuales";
+$lang['productos.las_cuales']			= "de las cuales";
+$lang['productos.relacionados']			= "Productos relacionados";
+
+$lang['productos.meta.title']			= "Productos";
+$lang['productos_lower.meta.title']			= "productos";
+$lang['producto.meta.title']			= "producto";
+$lang['productos.meta.description']			= "Descubre la gama de productos Isabel: atún y bonito, especialidades de salchichas, mejillones, sardinas y sardinillas, ensaladas y platos preparados";
+$lang['productos.meta.keywords']			= "Gama, atun, bonito, especialidades, mejillones, salchichas, sardinas, ensaladas, platos preparados";
+
+$lang['productos_familia.meta.description']			= "El atún y el bonito son las especialidades de Isabel, con distintas salsas: en aceite vegetal, en aceite de oliva, en escabeche, al natural, oleicol…";
+$lang['productos_familia.meta.keywords']			= "atun, bonito, especialidades, salsas, aceite, vegetal, tomate, oleicol";
+
+
+$lang['productos.titulo1']			= "Hoy comemos con Isabel:";
+$lang['productos.sub_titulo1']			= "Descubre todas las posibilidades de nuestra gama de productos";
+//$lang['productos.t1.p1']			= "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nibh nisi, fringilla in fermentum a, iaculis et turpis. In at orci ante, at tempor neque.";
+//$lang['productos.t1.p2']			= "¡Consulta nuestra <a href='/".$lang['recetas_url']."' title='Ver sección de recetas'>sección de recetas</a>!";
+
+$lang['sala_prensa.noticias']			= "Noticias";
+$lang['sala_prensa.noticias_url']			= "noticias";
+
+$lang['sala_prensa.promociones_long']			= "Promociones Grupo Alco";
+$lang['sala_prensa.promociones']			= "Promociones";
+$lang['sala_prensa.promociones_url']			= "promociones";
+
+$lang['sala_prensa.imagenes_long']			= "Imágenes Isabel";
+$lang['sala_prensa.imagenes']			= "Imágenes";
+$lang['sala_prensa.imagenes_url']			= "imagenes";
+$lang['sala_prensa.dossier_long']			= "Dossier de prensa";
+$lang['sala_prensa.dossier']			= "Dossier";
+$lang['sala_prensa.dossier_url']			= "dossier";
+
+
+
+
+
+/********************************** CONTACTO **********************************/
+
+$lang['cotizar']			= "Cotizar";
+$lang['cotizar_url']			= "cotizar";
+
+
+$lang['contacto.mapa']			= "ver mapa de ubicacion";
+
+$lang['contactenos']			= "CONTÁCTENOS";
+$lang['contactenos_tlf']			= "+58 (241) 871.64.41";
+$lang['contactenos_email']			= "ventas@grupoalco.com";
+
+$lang['contacto']			= "Contacto";
+$lang['contacto_url']			= "contacto";
+$lang['contacto_KO']			= "Ha ocurrido un error durante el proceso.";
+$lang['contacto_intentalo']			= "Intentarlo de nuevo";
+$lang['contacto_OK']			= "Tu mensaje ha sido enviado correctamente.";
+
+$lang['emailing_bienvenido'] = "¡Contacto desde Loquebuscas!";
+$lang['nombre_emisor_contacto']	= "GrupoAlco.com";
+$lang['email_subject_contacto']	= "Email Informativo de Contacto/Cotización";
+
+$lang['contacto_registro']			= "Registro Contacto";
+$lang['contacto_ya_registro']			= "El correo ya esta registrado";
+
+$lang['contacto_horario']				= "Horarios";
+$lang['horario_servicios']				= "Departamento de Servicios<br />";
+$lang['horario_servicios2']				= "Lunes a Viernes<br />
+											7:30 AM – 12 PM<br />
+											1PM – 5 PM<br />";
+$lang['horario_administracion']			= "Departamento de Repuestos / Ventas / administración<br />";
+$lang['horario_administracion2']		= "8 AM – 12 PM<br />
+											1 PM – 5:30 PM";
+
+$lang['contacto_enviar_url']			= "enviar";
+$lang['contacto_servicio_consumidor']	= "Servicio de Atención al Consumidor";
+$lang['contacto_num_tlf']				= "<strong>Tel: +58 245 5653724</strong><br />
+											<strong>Tel: +58 245 5653638</strong><br />
+											<strong>Tel: +58 245 5652942</strong><br />
+											<strong>Tel: +58 245 5652951</strong><br />";
+$lang['contacto_contacta_nosotros']		= "Contacta con nosotros";
+
+$lang['contacto.email.noreply']		= "no-reply@isabel.net";
+$lang['contacto.email.emisor']		= "Isabel.net";
+
+
+$lang['contacto.email']		= "ventas@grupoalco.com";
+$lang['contacto.form.titulo']		= "Puede dejarnos su comentario llenando el siguiente formulario:";
+$lang['contacto.form.nombre']		= "Nombre";
+$lang['contacto.form.apellido']		= "Apellido";
+$lang['contacto.form.correo']		= "E-mail";
+$lang['contacto.form.empresa']		= "Empresa";
+$lang['contacto.form.tlf']		= "Teléfono de Habitación";
+$lang['contacto.form.tlf_movil']		= "Móvil";
+$lang['contacto.form.mensaje']		= "Escriba aquí su mensaje.";
+
+
+$lang['contacto.form.provincia']		= "Provincia";
+$lang['contacto.form.tema']		= "Tema del mensaje";
+$lang['contacto.form.tema.seleciona']		= "Selecciona el tema del mensaje";
+$lang['contacto.form.tema.1']		= "Información";
+$lang['contacto.form.tema.2']		= "Reclamación";
+$lang['contacto.form.tema.3']		= "Agradecimiento";
+$lang['contacto.form.tema.4']		= "Opinión";
+$lang['contacto.form.tema.5']		= "Petición";
+$lang['contacto.form.tema.6']		= "Otros";
+$lang['contacto.form.pais']		= "País";
+$lang['contacto.form.pais.1']		= "España";
+$lang['contacto.form.pais.2']		= "Marruecos";
+$lang['contacto.form.pais.3']		= "Colombia";
+$lang['contacto.form.pais.4']		= "Ecuador";
+$lang['contacto.form.pais.5']		= "Resto de países";
+
+
+$lang['contacto.form.obligatorio']		= "Campos obligatorios";
+$lang['contacto.form.copia']		= "Enviar una copia de este mensaje a mi correo electrónico";
+$lang['contacto.form.verifica']		= "Por favor, verifica que los datos son correctos.";
+
+$lang['contacto.email.peticion.OK']		= "Tu petición se ha enviado correctamente";
+$lang['contacto.email.contacto']		= "Nos pondremos en contacto contigo lo antes posible";
+$lang['contacto.email.consulta']		= "Tu consulta fue:";
+$lang['contacto.email.tema']		= "Tema del mensaje";
+$lang['contacto.email.subject']		= "Solicitud de ";
+
+
+/********************************** FIN CONTACTO **********************************/
+
+
+
+/********************************** FIN REDES SOCIALES **********************************/
+
+
+$lang['form.registro.nombre']		= 'Nombre de usuario para <strong>isabel.net</strong>'; 
+$lang['form.registro.clave']		= 'Contraseña para <strong>isabel.net</strong>';
+$lang['form.registro.clave.repetir']		= 'Repetir contraseña para <strong>isabel.net</strong>'; 
+$lang['form.registro.correo']		= 'Correo Electrónico'; 
+$lang['form.registro.correo.repetir']		= 'Repetir el correo Electrónico';
+$lang['form.registro.mayor']		= 'Soy Mayor de Edad'; 
+$lang['form.registro.promo']		= 'Quiero recibir promociones e información de <strong>isabel.net</strong>'; 
+$lang['form.registro.obligatorio']		= 'Campos obligatorios'; 
+
+$lang['form.error.registro.requerido']		= 'El Campo "%s" es obligatorio';
+$lang['form.error.registro.min_lenght']		= 'El Campo %s debe tener como mínimo 6 caracteres'; 
+$lang['form.error.registro.email']		= 'El Campo "%s" debe ser un email válido'; 
+$lang['form.error.registro.igual']		= 'El Campo %s debe tener debe ser igual';
+$lang['form.error.nombre'] = "Nombre de usuario";
+$lang['form.error.correo'] = "Correo electrónico";
+$lang['form.error.correo.repetir'] = "Repetir correo";
+$lang['form.error.password'] = "Contraseña";
+$lang['form.error.password.repetir'] = "Repetir contraseña";
+$lang['form.error.mayor'] = "Mayor de Edad";
+
+$lang['form.ok.participa'] = "¡Participar con Isabel tiene premio!";
+$lang['form.ok.unete'] = "Únete a Isabel.net y gana premios";
+$lang['form.ok.muy_cerca'] = "Estás muy cerca de  formar parte de <strong>Isabel.net</strong> y poder participar en todas nuestras promociones. Sólo tienes que tomarte unos minutos y completar los siguientes datos del registro.";
+$lang['form.ok.registro_completo'] = "El registro se ha completado correctamente.";
+$lang['form.ok.registro_activo'] = "Tu cuenta ha sido activada correctamente.";
+$lang['form.ok.registro_modificado'] = "El registro se ha modificado correctamente.";
+$lang['form.ok.recibiras_email'] = "En breve recibirás un mail confirmando la verificación de tus datos y las instrucciones para activar tu cuenta. <span>Muchas gracias.</span>";
+
+$lang['registro.acepto'] = "Acepto las";
+$lang['registro.politica'] = "Condiciones de uso y Política de privacidad";
+$lang['registro.campos'] = "*Campos obligatorios";
+
+
+//$lang['form.error.requerido']		= "";
+//$lang['form.error.requerido']		= "";
+//$lang['form.error.requerido']		= "";
+//$lang['form.error.requerido']		= "";
+//$lang['form.error.requerido']		= "";
+
+$lang['resultados']			= "Resultados";
+
+$lang['promociones.meta.title']			= "Promociones";
+$lang['promociones.meta.description']			= "Descubre las promociones de Grupo Alco: de carpas de techo, toldos, accesorios, servicios y repeustos.";
+$lang['promociones.meta.keywords']			= "Promociones, carpas de techo, toldos, forros, servicios, repuestos de carpas de techo";
+
+
+$lang['facebook.siguenos']			= "Síguenos en Facebook";
+$lang['facebook.descripcion']			= "Participa en nuestras promociones y accede a contenidos extras.";
+
+$lang['enviar']			= "Enviar";
+$lang['cancelar']			= "Cancelar";
+$lang['guardar']			= "Guardar";
+
+$lang['home.comunicacion']			= "Comunicación";
+$lang['home.comunicacion.descripcion']			= "Comunicación";
+//$lang['home.comunicacion.url']			= $lang['empresa_url']."/".$lang['empresa.isabel_publicidad_url'];
+//$lang['home.comunicacion.ultimo_spot.url']			= $lang['empresa.isa_publi.spot1.url'];
+//$lang['home.comunicacion.ver_detalles.url']			= $lang['home.comunicacion.url'];
+
+
+/*************************** META DATA **************************/
+
+$lang['meta.title']			= "Loquebuscas";
+$lang['meta.description']			= "";
+$lang['meta.keywords']			= "";
+
+$lang['empresa.meta.title'] = "historia";
+$lang['empresa.meta.description'] = ""; 
+$lang['empresa.meta.keywords'] = "";
+
+$lang['contacto.meta.title']			= "Contacto";
+$lang['contacto.meta.description']			= "Grupo Alco te ofrece la posibilidad de contacto a través de la web, rellena el formulario con tu nombre y apellidos, correo electrónico, producto y demas";
+$lang['contacto.meta.keywords']			= "contacta, nombre, apellidos, producto, correo electronico, mensaje, carpas mare, carpas de techo";
+
+$lang['noticias.meta.title']			= "Noticias";
+$lang['noticias_lower.meta.title']			= "noticias";
+$lang['noticia.meta.title']			= "noticia";
+$lang['noticias.meta.description']			= "";
+$lang['noticias.meta.keywords']			= "";
+
+/** dias de la semana */
+
+$lang['Sun'] = 'Domingo';
+$lang['Mon'] = 'Lunes';
+$lang['Tue'] = 'Martes';
+$lang['Wed'] = 'Miércoles';
+$lang['Thu'] = 'Jueves';
+$lang['Fri'] = 'Viernes';
+$lang['Sat'] = 'Sábado';
+
+$lang['Jan'] = 'Enero';
+$lang['Feb'] = 'Febrero';
+$lang['Mar'] = 'Marzo';
+$lang['Apr'] = 'Abril';
+$lang['May'] = 'Mayo';
+$lang['Jun'] = 'Junio';
+$lang['Jul'] = 'Julio';
+$lang['Ago'] = 'Agosto';
+$lang['Sep'] = 'Septiembre';
+$lang['Oct'] = 'Octubre';
+$lang['Nov'] = 'Noviembre';
+$lang['Dic'] = 'Diciembre';
+
+
+/* End of file front_lang.php */

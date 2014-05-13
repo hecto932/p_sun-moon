@@ -1,0 +1,1 @@
+<?php redirect('error','location'); ?>
